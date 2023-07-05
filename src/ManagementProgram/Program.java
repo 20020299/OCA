@@ -168,6 +168,7 @@ public class Program {
                 }
                 System.out.print("Enter the asset price: ");
                 double newPrice = scanner.nextDouble();
+                asset.setPrice(newPrice);
                 System.out.print("Enter the asset weight: ");
                 double newWeight = scanner.nextDouble();
                 asset.setWeight(newWeight);

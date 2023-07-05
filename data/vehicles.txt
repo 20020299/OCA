@@ -1,0 +1,12 @@
+Car,1,a,Black,999.0,BMW,Sport,2020
+Car,2,b,Grey,888.0,Vios,Family,2020
+Motorbike,3,c,Blue,99.0,WinnerX,150.0,true
+Car,4,d,White,990.0,Camry,Boss,2020
+Motorbike,5,e,Black,88.0,SH,120.0,false
+Car,6,f,Black,899.0,Everest,Truck,2020
+Car,7,g,Black,897.0,CX-5,Sport,2020
+Car,8,h,Black,895.0,CX-4,Sport,2020
+Car,9,i,Black,1099.0,Lexus,Limo,2020
+Car,10,j,Black,880.0,Toyota,Family,2020
+Motorbike,11,k,Blue,50.0,Future,120.0,false
+Motorbike,12,l,Blue,199.0,Exiter,200.0,true
